@@ -4,5 +4,5 @@ func Welcome() string {
 	return "Hello, second version this is faulty"
 }
 func Version() string {
-	return "2nd"
+	return "3rd"
 }
