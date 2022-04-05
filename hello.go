@@ -1,8 +1,8 @@
 package hello
 
 func Welcome() string {
-	return "Hello, 5th version is new"
+	return "Hello, 1.0 version is new"
 }
 func Version() string {
-	return "5th"
+	return "1.5th"
 }
